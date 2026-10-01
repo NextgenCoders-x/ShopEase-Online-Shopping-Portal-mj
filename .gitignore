@@ -1,0 +1,32 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor / Local Environment
+.idea/
+.vscode/
+*.swp
+.env
+.env.local
+
+# Project Debug & Migration Scripts
+check-admin.php
+check-schema.php
+fix-admin-amounts.php
+fix-stock.php
+run-migration.php
+test-insert.php
+
+# Old / Temporary Backup files
+Read me.txt
+SQL file/
+
+# Log files
+error_log
+php_errors.log
+*.log

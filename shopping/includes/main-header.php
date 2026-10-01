@@ -1,0 +1,1 @@
+<?php // Obsolete - UI replaced by ShopEase framework ?>
